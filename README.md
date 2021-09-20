@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @etienne-gambourg
 - 👀 I’m interested in biking, transportation and programming.
-- 🌱 I’m currently learning Python and Java languages.
+- 🌱 I’m currently learning Python and Javascript languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
