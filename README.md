@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @etienne-garnier-gambourg
 - 👀 I’m interested in biking, transportation and programming.
 - 🌱 I’m currently learning Python and Javascript languages.
-- 💞️ I’m looking for an intern job.
+- 💞️ I’m looking for an internship job.
 - 📫 You Could Reach me with my email address : etienne.garnier at yahoo.fr
 
 <!---
