@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @etienne-garnier-gambourg
+- 👋 Hi, I’m @etienne-garnier
 - 👀 I’m interested in biking, transportation and programming.
 - 🌱 I’m currently learning Python and Javascript languages.
 - 💞️ I’m looking for an internship job.
