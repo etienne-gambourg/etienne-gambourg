@@ -4,6 +4,8 @@
 - 💞️ I’m looking for an internship job.
 - 📫 You Could Reach me with my email address : etienne.garnier at yahoo.fr
 
+![Drag Racing](https://www.codewars.com/users/etienne-garnier/badges/large)
+
 <!---
 etienne-gambourg/etienne-gambourg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
