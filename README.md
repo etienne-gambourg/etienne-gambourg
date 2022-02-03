@@ -4,6 +4,7 @@
 - 💞️ I’m looking for an internship job.
 - 📫 You Could Reach me with my email address : etienne.garnier at yahoo.fr
 
+My Codewar ranking:
 ![Drag Racing](https://www.codewars.com/users/etienne-garnier/badges/large)
 
 <!---
