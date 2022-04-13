@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @etienne-garnier
-- 👀 I’m interested in biking, transportation and programming.
+- 👀 I’m interested in biking,reading, transportation and programming.
 - 🌱 I’m currently learning Python and Javascript languages, I have a prior experience in python in data Analysis and i went to "La Capsule" to learn MERN technologies.
 - 💞️ I’m looking for an internship job.
 - 📫 You Could Reach me with my email address : etienne.garnier at yahoo.fr
