@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @etienne-garnier
+- 👋 Hi, I’m @etienne-gambourg
 - 👀 I’m interested in biking,reading, transportation and programming.
 - 🌱 I’m currently learning Python and Javascript languages, I have a prior experience in python in data Analysis and i went to "La Capsule" to learn MERN technologies.
 - 📫 You Could Reach me with my email address : etienne.garnier at yahoo.fr
